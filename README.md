@@ -1,0 +1,2 @@
+# theory
+Replacement for meterpreter.
